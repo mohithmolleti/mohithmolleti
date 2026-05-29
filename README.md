@@ -7,20 +7,18 @@
 <!-- ANIMATED HEADER BANNER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=MOHITH%20KUMAR%20MOLLETI&fontSize=42&fontColor=00f5ff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Problem%20Solver%20%7C%20Builder&descAlignY=58&descColor=a78bfa" width="100%"/>
 
-<!-- ANIMATED TYPING EFFECT -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=00F5FF&center=true&vCenter=true&width=650&lines=🚀+Full+Stack+Developer;⚡+Building+Scalable+Web+Apps;🤖+Exploring+AI+%26+Machine+Learning;🎯+Turning+Ideas+into+Reality;💻+Code+%7C+Create+%7C+Conquer" alt="Typing SVG" />
-</a>
+<!-- ANIMATED TYPING EFFECT — direct image, no broken git.io link -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&lines=%F0%9F%9A%80+Full+Stack+Developer;%E2%9A%A1+Building+Scalable+Web+Apps;%F0%9F%A4%96+Exploring+AI+%26+Machine+Learning;%F0%9F%8E%AF+Turning+Ideas+into+Reality;%F0%9F%92%BB+Code+%7C+Create+%7C+Conquer" alt="Typing SVG" />
 
 <br/>
 
-<!-- PROFILE VIEWS + BADGES ROW -->
+<!-- PROFILE VIEWS + STATUS BADGES -->
 <p>
-  <img src="https://komarev.com/ghpvc/?username=mohithmolleti&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-  &nbsp;
-  <img src="https://img.shields.io/github/followers/mohithmolleti?label=FOLLOWERS&style=for-the-badge&color=302b63&labelColor=0f0c29" alt="Followers" />
+  <img src="https://komarev.com/ghpvc/?username=mohithmolleti&label=PROFILE+VIEWS&color=00f5ff&style=for-the-badge&labelColor=0d1117" alt="Profile Views" />
   &nbsp;
   <img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-00ff88?style=for-the-badge&labelColor=0a0a0a" alt="Status" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/BASED%20IN-INDIA%20%F0%9F%87%AE%F0%9F%87%B3-FF9933?style=for-the-badge&labelColor=0a0a0a" alt="Location" />
 </p>
 
 </div>
@@ -33,7 +31,9 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Medium%20Skin%20Tone.png" width="35"> About Me
 
-<img align="right" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" width="380" alt="snake animation"/>
+<table>
+<tr>
+<td width="55%">
 
 ```typescript
 const mohith = {
@@ -54,7 +54,27 @@ const mohith = {
 };
 ```
 
-<br clear="right"/>
+</td>
+<td width="45%" align="center">
+
+<!-- ANIMATED CODING GIF -->
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding GIF" style="border-radius:12px"/>
+
+<!-- ANIMATED STATS PILL -->
+<br/><br/>
+
+![](https://img.shields.io/badge/⚡_Daily_Driver-VS%20Code-007ACC?style=flat-square&logo=visualstudiocode)
+![](https://img.shields.io/badge/☕_Powered%20By-Coffee-6F4E37?style=flat-square&logo=buymeacoffee)
+![](https://img.shields.io/badge/🎯_Focus-Full%20Stack-a78bfa?style=flat-square)
+
+</td>
+</tr>
+</table>
+
+<!-- ANIMATED SKILL BARS / WAVE DIVIDER -->
+<div align="center">
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,python,java,html,css,tailwind,mongodb,mysql,postgres,firebase,aws,docker,git,linux,vscode,postman&perline=10" />
+</div>
 
 ---
 
@@ -62,7 +82,7 @@ const mohith = {
 <!--                         🛠️ TECH STACK SECTION                             -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"> Tech Arsenal
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="32"> Tech Arsenal
 
 <div align="center">
 
@@ -117,10 +137,8 @@ const mohith = {
 
 <br/>
 
-<!-- STREAK STATS -->
-<a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com?user=mohithmolleti&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F5FF&ring=A78BFA&fire=FF6B6B&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00F5FF&sideLabels=A78BFA&dates=8B949E&border_radius=10" alt="GitHub Streak" width="60%"/>
-</a>
+<!-- STREAK STATS — using github-streak-stats.herokuapp.com as backup -->
+<img src="https://streak-stats.demolab.com?user=mohithmolleti&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F5FF&ring=A78BFA&fire=FF6B6B&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00F5FF&sideLabels=A78BFA&dates=8B949E&border_radius=10" alt="GitHub Streak" width="60%"/>
 
 <br/><br/>
 
@@ -145,19 +163,44 @@ const mohith = {
   </picture>
 </div>
 
-> 💡 **To enable snake animation:** Create `.github/workflows/snake.yml` in your profile repo with the snake generation action. ([Guide here](https://github.com/Platane/snk))
+<details>
+<summary>⚙️ <b>Click to set up the snake animation (one-time, 5 mins)</b></summary>
 
----
+<br/>
 
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!--                         🏆 GITHUB TROPHIES                                -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+**Step 1:** In your `mohithmolleti` profile repo, create `.github/workflows/snake.yml`
 
-## 🏆 GitHub Trophies
+**Step 2:** Paste this inside:
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mohithmolleti&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4" width="95%" alt="Trophies"/>
-</div>
+```yaml
+name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+**Step 3:** Go to **Actions tab → Run workflow** → Done! ✅
+
+</details>
 
 ---
 
@@ -181,7 +224,7 @@ const mohith = {
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
 &nbsp;
-<!-- 🔴 REPLACE with your actual portfolio URL below -->
+<!-- 🔴 REPLACE with your actual portfolio URL -->
 <a href="https://mohithmolleti.github.io" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
 </a>
@@ -195,17 +238,12 @@ const mohith = {
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!--                              FOOTER                                        -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-
+<!-- FOOTER -->
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%"/>
 
-<p>
-  <img src="https://img.shields.io/badge/Made%20with-❤️%20by%20Mohith-302b63?style=for-the-badge" />
-</p>
+<img src="https://img.shields.io/badge/Made%20with-%E2%9D%A4%EF%B8%8F%20by%20Mohith-302b63?style=for-the-badge" />
 
 **⭐ If you like what you see, consider starring my repos! ⭐**
 
