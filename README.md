@@ -24,32 +24,62 @@
 
 # ⚡ About Me
 
-<img align="right" width="350" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzFwdnJ5bHJ6eWJldG80Y2Y2MTRwcWF6MXJ6MzBvMDF4eW16NXNwNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif">
+<p align="center">
 
-🎓 B.Tech CSE (AI/ML)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00F5FF,100:FF00FF"/>
 
-💻 Strong in:
-- Java
-- Spring Boot
-- DSA
-- SQL
-- REST APIs
+</p>
 
-🌱 Currently Learning:
-- DevOps
-- Docker
-- System Design
-- Machine Learning
+<img align="right" width="380" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
-🎯 Goal:
-Build products used by millions and contribute to Open Source.
+### 👨‍💻 Mohith Molleti
 
-🎮 Fun Fact:
-I love experimenting with game mechanics and language design.
+```yaml
+Name: Mohith Molleti
 
----
+Role:
+  Full Stack Developer
 
----
+Education:
+  B.Tech CSE (AI/ML)
+
+Passionate About:
+  - Java Development
+  - Spring Boot
+  - System Design
+  - Artificial Intelligence
+  - Open Source
+
+Currently Learning:
+  - DevOps
+  - Kubernetes
+  - Machine Learning
+  - Cloud Technologies
+
+Mission:
+  Build impactful software that solves real problems.
+
+Dream:
+  Become a world-class Software Engineer.
+```
+
+🔥 Solved hundreds of DSA problems
+
+🚀 Building scalable backend systems
+
+🧠 Exploring AI and Machine Learning
+
+⚡ Consistent learner and creator
+
+🎮 Fun Fact: I love designing programming languages and game mechanics
+
+<br clear="right"/>
+
+<p align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FFCC&center=true&vCenter=true&width=900&lines=Code.+Build.+Learn.;Stay+Consistent.;Dream+Big.;Become+Legendary."/>
+
+</p>
 
 # 🌐 Portfolio
 
