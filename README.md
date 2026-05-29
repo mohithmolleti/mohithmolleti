@@ -1,61 +1,178 @@
-<!-- Profile README for Mohith Molleti -->
+<!-- ========================= -->
+<!--        HERO SECTION       -->
+<!-- ========================= -->
 
-<h1 align="center">Hi 👋, I'm Mohith Molleti</h1>
-<h3 align="center">🚀 Passionate Developer | AI/ML Enthusiast | Full‑Stack Explorer</h3>
+<h1 align="center">
+  Hi 👋, I'm Mohith Molleti
+</h1>
+
+<h3 align="center">
+  🚀 Full Stack Developer | AI/ML Enthusiast | Java & Spring Boot Developer
+</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mohithmolleti&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/mohithmolleti?label=Followers&style=social" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/stars/mohithmolleti?label=Stars&style=social" alt="GitHub Stars" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Java+Developer;Spring+Boot+Enthusiast;AI%2FML+Explorer;Open+Source+Contributor;Building+Impactful+Projects" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mohithmolleti&label=Profile+Views&color=blueviolet&style=for-the-badge"/>
+  <img src="https://img.shields.io/github/followers/mohithmolleti?style=for-the-badge"/>
+  <img src="https://img.shields.io/github/stars/mohithmolleti?style=for-the-badge"/>
 </p>
 
 ---
 
-## 🌟 About Me
-- 🎓 B.Tech CSE (AI/ML) student  
-- 💻 Skilled in **Java, Spring Boot, Python, DSA**  
-- 🌱 Exploring **DevOps, ML fundamentals, and language design**  
-- 🎯 Goal: Build impactful open‑source projects & contribute to AI innovation  
-- 🎮 Fun fact: I love modding **GTA Vice City mechanics**  
+# ⚡ About Me
+
+<img align="right" width="350" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzFwdnJ5bHJ6eWJldG80Y2Y2MTRwcWF6MXJ6MzBvMDF4eW16NXNwNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif">
+
+🎓 B.Tech CSE (AI/ML)
+
+💻 Strong in:
+- Java
+- Spring Boot
+- DSA
+- SQL
+- REST APIs
+
+🌱 Currently Learning:
+- DevOps
+- Docker
+- System Design
+- Machine Learning
+
+🎯 Goal:
+Build products used by millions and contribute to Open Source.
+
+🎮 Fun Fact:
+I love experimenting with game mechanics and language design.
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠 Tech Stack
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,python,cpp,git,github,docker,react,vercel" />
+
+<img src="https://skillicons.dev/icons?i=java,spring,python,cpp,js,ts,react,nodejs,mysql,mongodb,docker,git,github,linux,postman,vscode"/>
+
 </p>
 
 ---
 
-## 📂 Featured Projects
-- 🔗 [E‑Commerce Microservices App](https://github.com/mohithmolleti/ecommerce-microservices)  
-  Scalable backend with Spring Boot & REST APIs.
-- 🔗 [DSA Practice Repository](https://github.com/mohithmolleti/dsa-practice)  
-  300+ problems solved with optimized solutions.
-- 🔗 [TEN Programming Language](https://github.com/mohithmolleti/TEN)  
-  My own language design project — modern, elegant, powerful.
+# 🚀 Featured Projects
+
+### 🛒 E-Commerce Microservices
+Spring Boot based scalable backend architecture.
+
+### 📚 DSA Practice Repository
+300+ optimized coding problems solved.
+
+### ⚙ TEN Programming Language
+A modern programming language built from scratch.
+
+### 🤖 AI Projects
+Machine Learning and NLP experiments.
 
 ---
 
-## 📊 GitHub Stats
+# 📈 GitHub Statistics
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohithmolleti&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohithmolleti&theme=radical" alt="GitHub Streak" />
+
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api?username=mohithmolleti&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohithmolleti&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+# 🔥 GitHub Streak
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mohithmolleti&theme=radical&no-frame=true&margin-w=15&margin-h=15" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=mohithmolleti&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
 
-## 🌐 Connect With Me
-- [LinkedIn](https://www.linkedin.com/in/mohithmolleti)  
-- [GitHub](https://github.com/mohithmolleti)
+# 📊 Activity Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mohithmolleti&theme=tokyo-night&hide_border=true"/>
+
+</p>
 
 ---
 
-✨ *Crafted to make my profile beautiful, advanced, and awesome!*
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=mohithmolleti&theme=tokyonight&no-frame=true&row=2&column=4"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/mohithmolleti/mohithmolleti/output/github-contribution-grid-snake.svg"/>
+
+</p>
+
+---
+
+# 📅 Coding Activity
+
+<!-- Wakatime Stats -->
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=mohithmolleti&theme=tokyonight"/>
+
+---
+
+# 💡 Random Dev Quote
+
+<p align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://linkedin.com/in/mohithmolleti">
+  <img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="https://github.com/mohithmolleti">
+  <img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+</p>
+
+---
+
+# ⚡ Fun Stats
+
+```text
+☕ Coffee Consumed: Infinite
+🐛 Bugs Fixed: Countless
+🔥 Streak Goal: 365+ Days
+🚀 Dream: Build Something Legendary
+```
+
+---
+
+<h3 align="center">
+⭐ If you like my work, consider following me!
+</h3>
