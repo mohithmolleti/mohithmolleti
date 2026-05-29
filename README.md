@@ -49,6 +49,21 @@ I love experimenting with game mechanics and language design.
 
 ---
 
+---
+
+# 🌐 Portfolio
+
+<p align="center">
+
+<a href="https://mohithkumar.netlify.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-00C9FF?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+
 # 🛠 Tech Stack
 
 <p align="center">
