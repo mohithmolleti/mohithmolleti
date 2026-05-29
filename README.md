@@ -1,30 +1,61 @@
-# Hi there 👋, I'm Mohith Molleti
+<!-- Profile README for Mohith Molleti -->
 
-## 🚀 About Me
-- 🌱 Currently learning **AI/ML & Full‑Stack Development**
-- 💻 Passionate about building projects in **Java, Spring Boot, and DSA**
-- 🎯 Goal: To contribute to impactful open‑source projects and grow as a developer
-- ⚡ Fun fact: I love exploring **DevOps concepts** and gaming mechanics like GTA Vice City
+<h1 align="center">Hi 👋, I'm Mohith Molleti</h1>
+<h3 align="center">🚀 Passionate Developer | AI/ML Enthusiast | Full‑Stack Explorer</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mohithmolleti&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/mohithmolleti?label=Followers&style=social" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/mohithmolleti?label=Stars&style=social" alt="GitHub Stars" />
+</p>
+
+---
+
+## 🌟 About Me
+- 🎓 B.Tech CSE (AI/ML) student  
+- 💻 Skilled in **Java, Spring Boot, Python, DSA**  
+- 🌱 Exploring **DevOps, ML fundamentals, and language design**  
+- 🎯 Goal: Build impactful open‑source projects & contribute to AI innovation  
+- 🎮 Fun fact: I love modding **GTA Vice City mechanics**  
+
+---
 
 ## 🛠️ Tech Stack
-- **Languages:** Java, Python, C++
-- **Frameworks:** Spring Boot, React
-- **Tools:** Git, GitHub, Docker, Vercel
-- **Concepts:** Data Structures & Algorithms, Machine Learning, DevOps basics
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,python,cpp,git,github,docker,react,vercel" />
+</p>
+
+---
 
 ## 📂 Featured Projects
 - 🔗 [E‑Commerce Microservices App](https://github.com/mohithmolleti/ecommerce-microservices)  
   Scalable backend with Spring Boot & REST APIs.
 - 🔗 [DSA Practice Repository](https://github.com/mohithmolleti/dsa-practice)  
   300+ problems solved with optimized solutions.
+- 🔗 [TEN Programming Language](https://github.com/mohithmolleti/TEN)  
+  My own language design project — modern, elegant, powerful.
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mohithmolleti&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohithmolleti&theme=radical" alt="GitHub Streak" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mohithmolleti&theme=radical&no-frame=true&margin-w=15&margin-h=15" />
+</p>
+
+---
 
 ## 🌐 Connect With Me
 - [LinkedIn](https://www.linkedin.com/in/mohithmolleti)  
 - [GitHub](https://github.com/mohithmolleti)
 
-## 📊 GitHub Stats
-![Mohith's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohithmolleti&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohithmolleti&layout=compact&theme=radical)
-
 ---
-✨ *This README was generated to make my profile beautiful and awesome!*
+
+✨ *Crafted to make my profile beautiful, advanced, and awesome!*
